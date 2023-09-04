@@ -1,0 +1,29 @@
+{
+  "name": "Nguyễn Trung Tùng Nhật",
+  "ID": "1030077285",
+  "mainROD": "Cúp gỗ",
+  "GPS": {
+    "locate": "Nether And The End",
+    "area": "Pháo Đài Nether"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Bedrock",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    }
+  ],
+  "item": [
+    {
+      "name": "Cúp gỗ",
+      "price": 400,
+      "durability": 0,
+      "countdown": 10,
+      "countdownData": 1668699886527,
+      "image": "https://i.imgur.com/IODc9Jo.png"
+    }
+  ],
+  "timeRegister": "22:42:53, 17/11/2022"
+}

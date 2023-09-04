@@ -1,0 +1,60 @@
+{
+  "ID": "100087595727224",
+  "mainROD": "Harpak",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Crater Edge – The Void"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 2,
+      "name": "Bleeder",
+      "category": "Uncommon",
+      "size": 19,
+      "sell": 370,
+      "image": "https://i.imgur.com/EVAjNvI.png"
+    },
+    {
+      "ID": 3,
+      "name": "Jasper Thallassacean",
+      "category": "Epic",
+      "size": 1190,
+      "sell": 45600,
+      "image": "https://i.imgur.com/nuEp4sZ.png"
+    },
+    {
+      "ID": 5,
+      "name": "Sapphire Clown Pincher",
+      "category": "Uncommon",
+      "size": 36,
+      "sell": 500,
+      "image": "https://i.imgur.com/h1KsPNo.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "Jeweled Tungsten Harpoon",
+      "price": 235400,
+      "durability": 890,
+      "countdown": 20,
+      "countdownData": 1677411357400,
+      "image": "https://i.imgur.com/P4l8Ivq.jpg"
+    },
+    {
+      "name": "Harpak",
+      "price": 1312350000,
+      "durability": 119610,
+      "countdown": 1,
+      "countdownData": 1677412096347,
+      "image": "https://i.imgur.com/S7eXgbY.png"
+    }
+  ],
+  "timeRegister": "14:06:51, 26/2/2023"
+}

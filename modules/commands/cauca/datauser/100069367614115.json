@@ -1,0 +1,117 @@
+{
+  "name": "ꯉꯨꯌꯦꯟ ꯐꯨꯑꯣꯡ ꯊꯥꯑꯣ꯫",
+  "ID": "100069367614115",
+  "mainROD": "Frenzy Harpoon gun",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Crater Edge – The Void"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 2,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 3,
+      "name": "Lava Larva",
+      "category": "Uncommon",
+      "size": 24,
+      "sell": 410,
+      "image": "https://i.imgur.com/DEhFwIb.png"
+    },
+    {
+      "ID": 4,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 5,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 7480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 6,
+      "name": "Crimson Ray",
+      "category": "Uncommon",
+      "size": 300,
+      "sell": 1000,
+      "image": "https://i.imgur.com/ii63Q5r.png"
+    },
+    {
+      "ID": 7,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 8,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 9,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 7480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 10,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    }
+  ],
+  "item": [
+    {
+      "name": "Frenzy Harpoon gun",
+      "price": 65617500,
+      "durability": 720,
+      "countdown": 1,
+      "countdownData": 1677770565561,
+      "image": "https://i.imgur.com/XcOc4tA.png"
+    },
+    {
+      "name": "Harpak",
+      "price": 1312350000,
+      "durability": 120000,
+      "countdown": 1,
+      "countdownData": null,
+      "image": "https://i.imgur.com/S7eXgbY.png"
+    }
+  ],
+  "timeRegister": "18:20:55, 19/2/2023"
+}
